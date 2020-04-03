@@ -9,6 +9,7 @@ namespace AnimalShelter.Models
 {
   public class Animal
   {
+    [Required]
     public int AnimalId { get; set; }
     public string AnimalName { get; set; }
     public string Species { get; set; }
