@@ -1,0 +1,14 @@
+C:\Users\Stunning\Desktop\epicodusProjects\c#\AnimalShelter.Solution\AnimalShelter\obj\Debug\netcoreapp2.2\AnimalShelter.Solution.csprojAssemblyReference.cache
+C:\Users\Stunning\Desktop\epicodusProjects\c#\AnimalShelter.Solution\AnimalShelter\obj\Debug\netcoreapp2.2\AnimalShelter.Solution.csproj.CoreCompileInputs.cache
+C:\Users\Stunning\Desktop\epicodusProjects\c#\AnimalShelter.Solution\AnimalShelter\obj\Debug\netcoreapp2.2\AnimalShelter.Solution.RazorAssemblyInfo.cache
+C:\Users\Stunning\Desktop\epicodusProjects\c#\AnimalShelter.Solution\AnimalShelter\obj\Debug\netcoreapp2.2\AnimalShelter.Solution.RazorAssemblyInfo.cs
+C:\Users\Stunning\Desktop\epicodusProjects\c#\AnimalShelter.Solution\AnimalShelter\obj\Debug\netcoreapp2.2\AnimalShelter.Solution.AssemblyInfoInputs.cache
+C:\Users\Stunning\Desktop\epicodusProjects\c#\AnimalShelter.Solution\AnimalShelter\obj\Debug\netcoreapp2.2\AnimalShelter.Solution.AssemblyInfo.cs
+C:\Users\Stunning\Desktop\epicodusProjects\c#\AnimalShelter.Solution\AnimalShelter\bin\Debug\netcoreapp2.2\AnimalShelter.Solution.deps.json
+C:\Users\Stunning\Desktop\epicodusProjects\c#\AnimalShelter.Solution\AnimalShelter\bin\Debug\netcoreapp2.2\AnimalShelter.Solution.runtimeconfig.json
+C:\Users\Stunning\Desktop\epicodusProjects\c#\AnimalShelter.Solution\AnimalShelter\bin\Debug\netcoreapp2.2\AnimalShelter.Solution.runtimeconfig.dev.json
+C:\Users\Stunning\Desktop\epicodusProjects\c#\AnimalShelter.Solution\AnimalShelter\bin\Debug\netcoreapp2.2\AnimalShelter.Solution.dll
+C:\Users\Stunning\Desktop\epicodusProjects\c#\AnimalShelter.Solution\AnimalShelter\bin\Debug\netcoreapp2.2\AnimalShelter.Solution.pdb
+C:\Users\Stunning\Desktop\epicodusProjects\c#\AnimalShelter.Solution\AnimalShelter\obj\Debug\netcoreapp2.2\AnimalShelter.Solution.RazorTargetAssemblyInfo.cache
+C:\Users\Stunning\Desktop\epicodusProjects\c#\AnimalShelter.Solution\AnimalShelter\obj\Debug\netcoreapp2.2\AnimalShelter.Solution.dll
+C:\Users\Stunning\Desktop\epicodusProjects\c#\AnimalShelter.Solution\AnimalShelter\obj\Debug\netcoreapp2.2\AnimalShelter.Solution.pdb
